@@ -1,0 +1,3 @@
+[submodule "Coleman"]
+	path = Coleman
+	url = https://github.com/jtuitman/Coleman.git
